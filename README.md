@@ -209,8 +209,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help customizing the portfolio:
 
-- **Email**: hello@yourname.com
-- **GitHub**: [Create an issue](https://github.com/yourusername/portfolio-website/issues)
+- **Email**: anvishwakarma66@gmail.com
 - **Documentation**: Check the code comments for detailed explanations
 
 ---
