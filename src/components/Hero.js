@@ -307,7 +307,7 @@ const Hero = () => {
 
 
   const handleDownloadResume = () => {
-    window.open('https://drive.google.com/file/d/1ipbcz3vmUKiYznRa_Jv4ivTlx868zQRh/view?usp=sharing', '_blank');
+    window.open('https://drive.google.com/file/d/14lnW4xfVCCgWDEy2ejiHyF1Anv-3CjSQ/view?usp=sharing');
   };
 
   const handleMouseMove = (e) => {

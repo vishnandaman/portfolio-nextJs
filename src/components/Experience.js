@@ -10,7 +10,7 @@ gsap.registerPlugin(ScrollTrigger);
 const experienceData = [
   {
     id: 1,
-    title: 'Full Stack Developer Intern',
+    title: 'Software Developer Intern',
     company: 'Zegnite',
     location: 'Remote',
     period: 'Jun 2025 - Aug 2025',

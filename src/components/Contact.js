@@ -56,15 +56,15 @@ const Contact = () => {
     {
       icon: FaEnvelope,
       label: 'Email',
-      value: 'aman.vishwakarma@example.com',
-      link: 'mailto:aman.vishwakarma@example.com',
+      value: 'amanvishwakarma2207@gmail.com',
+      link: 'mailto:amanvishwakarma2207@gmail.com',
       color: 'from-blue-500 to-blue-600'
     },
     {
       icon: FaPhone,
       label: 'Phone',
-      value: '+91 (XXX) XXX-XXXX',
-      link: 'tel:+91XXXXXXXXXX',
+      value: '+91 9322166860',
+      link: 'tel:+91 9322166860',
       color: 'from-green-500 to-green-600'
     },
     {
