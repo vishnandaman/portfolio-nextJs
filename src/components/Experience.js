@@ -1,7 +1,7 @@
 import React, { useRef, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
-import { FaCalendarAlt, FaMapMarkerAlt, FaRocket, FaMobile, FaBuilding, FaLaptopCode, FaLightbulb, FaGraduationCap, FaAward, FaCog, FaUsers, FaChartLine, FaShieldAlt, FaDatabase, FaGlobe } from 'react-icons/fa';
+import { FaCalendarAlt, FaMapMarkerAlt, FaRocket, FaBuilding, FaLaptopCode, FaLightbulb, FaGraduationCap, FaAward, FaCog, FaUsers } from 'react-icons/fa';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 

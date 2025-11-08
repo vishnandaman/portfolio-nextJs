@@ -1,7 +1,6 @@
 import React, { useRef, useEffect, useState, Suspense, useMemo } from 'react';
 import { motion } from 'framer-motion';
-import { FaGithub, FaLinkedin, FaEnvelope, FaDownload, FaArrowDown, FaCode, FaRocket, FaReact, FaNodeJs, FaDatabase, FaCloud, FaUser } from 'react-icons/fa';
-import { SiJavascript, SiMongodb, SiFirebase, SiTailwindcss } from 'react-icons/si';
+import { FaGithub, FaLinkedin, FaEnvelope, FaDownload, FaArrowDown, FaCode, FaRocket } from 'react-icons/fa';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 

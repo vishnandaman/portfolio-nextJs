@@ -4,10 +4,8 @@ import { useInView } from 'react-intersection-observer';
 import { 
   FaTrophy, 
   FaCertificate, 
-  FaStar,
   FaRocket,
-  FaUsers,
-  FaLightbulb
+  FaUsers
 } from 'react-icons/fa';
 
 const Achievements = () => {
@@ -20,10 +18,10 @@ const Achievements = () => {
     {
       id: 1,
       title: 'RIT Hackathon Runner-Up',
-      organization: 'AnxiePredoMeter Project',
-      description: 'Second place for developing mental health prediction system.',
+      organization: 'AnxiPredoMeter Project',
+      description: 'Second place for developing mental health prediction system and monitoring system.',
       icon: FaTrophy,
-      category: 'Competition',
+      category: 'Hackathon',
       date: '2024',
       color: 'from-yellow-500 to-orange-500',
       impact: 'Runner-Up Award'
@@ -32,9 +30,9 @@ const Achievements = () => {
       id: 2,
       title: 'SmartIDEAthon 2024 Finalist',
       organization: 'Top 100 from 12,500+ participants',
-      description: 'National-level hackathon finalist showcasing innovative problem-solving.',
+      description: 'National-level Ideathon showcasing waste management solution.',
       icon: FaRocket,
-      category: 'Competition',
+      category: 'Ideathon',
       date: '2024',
       color: 'from-blue-500 to-purple-500',
       impact: 'National Recognition'
@@ -75,7 +73,7 @@ const Achievements = () => {
       details: 'Certification ID: aefe850dcc1e'
     },
     {
-      name: 'MERNStack Certification',
+      name: 'MERN Stack Certification',
       issuer: 'Blend Vidya Edtech',
       date: 'Jan 2025',
       icon: FaCertificate,
